@@ -43,7 +43,7 @@ HTML, CSS, SASS, Javascript, Jquery, , NodeJS, React, Github, Heroku
 
 # React Express Starter Pack
 > full stack apps with React and Express. Run your client and server with a single command. 
-[React starter with API Router](https://github.com/GrimonprezAlexis/react-redux-express-starter)
+[React, Redux, API, SCSS, Heroku, starter](https://github.com/GrimonprezAlexis/React-custom-starter)
 
 ## Quick Start
 
@@ -67,8 +67,7 @@ npm run client
 ```
 
 ### Author
-Brad Traversy
-[Alexis GRIMONPREZ]()
+[Alexis GRIMONPREZ](grimonprez-alexis.herokuapp.com)
 
 ### Version
 1.0.0
