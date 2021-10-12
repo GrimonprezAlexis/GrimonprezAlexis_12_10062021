@@ -5,6 +5,10 @@ Projet 12 - Développez un tableau de bord d'analytics avec React
 ### Fonction
 Développeur Front-end
 
+### Maquette
+![image](https://user-images.githubusercontent.com/78658625/136953517-74cacc80-7eb3-41ad-901d-29da61fc3776.png)
+
+
 ### Details du projet
 Lancer une nouvelle version de la page profil de l’utilisateur. Cette page va notamment permettre à l’utilisateur de suivre le nombre de sessions réalisées ainsi que le nombre de calories brûlées.
 
